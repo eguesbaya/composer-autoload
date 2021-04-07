@@ -1,0 +1,23 @@
+{
+    "name": "emma/quete_composer",
+    "require": {
+
+    },
+    "description": "Projet quete composer",
+    "authors": [
+        {
+            "name": "eguesbaya",
+            "email": "guesbaya@hotmail.fr"
+        }
+    ],
+
+    "autoload": {
+        "psr-4": {"App\\": "src/"}
+    }
+
+
+    
+
+
+
+}
