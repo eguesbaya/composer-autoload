@@ -1,7 +1,7 @@
 {
     "name": "emma/quete_composer",
     "require": {
-
+        "ehime/hello-world": "^1.0"
     },
     "description": "Projet quete composer",
     "authors": [
